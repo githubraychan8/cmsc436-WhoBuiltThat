@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Brands>
+	<brand name="Dasani" owner="The Coca-Cola Company"/>
+	<brand name="Coca-Cola" owner="The Coca-Cola Company"/>
+	<brand name="Fanta" owner="The Coca-Cola Company"/>
+	<brand name="Fuze" owner="The Coca-Cola Company"/>
+	<brand name="Honest Tea" owner="The Coca-Cola Company"/>
+	<brand name="Smart Water" owner="The Coca-Cola Company"/>
+	<brand name="Powerade" owner="The Coca-Cola Company"/>
+	<brand name="Minute Maid" owner="The Coca-Cola Company"/>
+	<brand name="Sprite" owner="The Coca-Cola Company"/>
+	<brand name="Schweppes" owner="The Coca-Cola Company"/>
+	<brand name="Vitamin Water" owner="The Coca-Cola Company"/>
+</Brands>
